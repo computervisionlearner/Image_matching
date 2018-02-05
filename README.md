@@ -7,3 +7,7 @@
 3. scipy
 
 ### Datasets
+
+
+### Model
+The pretrained model can be used: https://pan.baidu.com/s/1qZk5dGo
