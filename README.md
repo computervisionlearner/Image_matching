@@ -1,4 +1,4 @@
-## Learning a similarity metric discriminatively for Cross-spectral via deep Convolutional Neural Networks
+## Jointly Learning: A Novel Method for Cross-spectral Image Patch Matching
 
 
 ## Requirement
