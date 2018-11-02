@@ -1,4 +1,4 @@
-## Jointly Learning: A Novel Method for Cross-spectral Image Patch Matching
+## Cross-spectral Image Patch Matching by Learning Features of the Spatially Connected Patches in a Shared Space
 
 
 ## Requirement
