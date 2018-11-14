@@ -8,7 +8,7 @@
 
 ### Datasets
 Follow the following steps to generate the dataset
-1. Download csv
+1. Download csv(这个网站需要翻墙，如果访问不了，可以直接用datasets文件夹下的那个压缩包)
     ```bash
     cd datasets
     ./download_nirscenes_csv.sh
